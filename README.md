@@ -10,7 +10,7 @@ The work focuses on understanding:
 - Which vulnerabilities are reduced—or entirely eliminated—by memory-safe language semantics 
 - Practical trade-offs when adopting memory-safe languages for systems-level work 
 
-| *Note:* This was a university research project completed as part of an NSA-sponsored academic program.
+> *Note:* This was a university research project completed as part of an NSA-sponsored academic program.
 
 ---
 
